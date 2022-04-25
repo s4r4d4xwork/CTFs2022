@@ -160,7 +160,7 @@ main()
 
 ```
 
-# => So I wrote a python code to get the hash that have exact GREEN position in output of above code, and find the exact key 'guess' word :
+# => So I wrote a python code to get the hash of word in wordlist that have exact GREEN position in output of above code by compare them, and find the exact key 'guess' word :
 
 ```python
 import hashlib
